@@ -1,7 +1,6 @@
 ## Hi 👋,  I'm Imalshi Somathilaka
 
-<!--
-**imalshi/imalshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a Quality Assurance Professional with strong manual testing and automation skills, adept at designing test plans, developing automated scripts, and ensuring high-quality software delivery.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
